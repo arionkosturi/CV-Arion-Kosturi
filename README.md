@@ -94,4 +94,4 @@ Hobby dhe Pasione
     
 *   Piano
 
-### Per me teper mund te me ndiqni ne <img width="322" src="https://camo.githubusercontent.com/98e21e031c377d4b6c2a62f8737ed82e330b2e5306c6e6a41af59b32366f72d2/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67" /> [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) Github](https://github.com/arkotech), [![](https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png) Facebook](https://www.facebook.com/arionkosturi)
+### Per me teper mund te me ndiqni ne <img width="32" src="https://camo.githubusercontent.com/98e21e031c377d4b6c2a62f8737ed82e330b2e5306c6e6a41af59b32366f72d2/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67" /> Github](https://github.com/arkotech), [![](https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png) Facebook](https://www.facebook.com/arionkosturi)
